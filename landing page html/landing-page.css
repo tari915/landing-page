@@ -1,0 +1,147 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.navbar{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    background-color: white;
+    padding: 10px;
+    position: fixed;
+    width: 100%;
+    box-shadow: 2px 1px 2px 2px rgb(216, 210, 210);
+}
+body{
+    font-family: poppins;
+}
+.logo{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center; 
+    margin-right: 150px;
+}
+.logo p{
+    margin-left: 5px;
+    font-size: 12px;
+    color: blueviolet;
+    font-family: roboto;
+    font-weight: 700;
+}
+.logo img{
+    width: 30px;
+    height: 30px;
+}
+.nav-links ul{
+    display: flex;
+    flex-direction: row;
+    list-style: none;
+    text-decoration: none;
+    gap: 30px;
+   
+}
+.nav-links{
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+}
+a{
+    display: flex;
+    margin-top: 20px;
+    margin-bottom: 15px;
+    text-decoration: none;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    color: black;
+    font-weight: 400;
+}
+.buttons{
+    display: flex;
+    flex-direction: row;
+    justify-content: end;
+    align-items: end;
+    align-content: end;
+    margin-left: 30px;
+}
+button{
+    padding: 5px;
+    padding-top:10px ;
+    padding-bottom: 10px;
+    padding-left: 30px;
+    padding-right: 30px;
+    justify-content: end;
+    justify-content: end;
+    align-items: end;
+    align-content: end;
+    margin-left: 10px;
+    margin-top:10px ;
+    border: 5px;
+    margin-bottom: 10px;
+    border-radius: 7px;
+    font-family: poppins;
+    font-weight: 700;
+}
+.button-2{
+    background-color: blueviolet;
+    color: white;
+}
+.button-1{
+    border: 1px solid blueviolet;
+    color: blueviolet;
+    background-color: white;
+}
+.hero{
+    display: flex;
+    background-color: #F5F5F5;
+    padding-top: 90px;
+    height: 100vh;
+}
+.head-text{
+    margin-top: 50px;
+    margin-left: 60px;
+    flex-direction: column;
+}
+.head-text h1{
+    font-size: 70px;
+    width: 600px;
+}
+.first-image img{
+    width: 500px;
+    height: 500px;
+    margin-right: 60px;
+    margin-top: 50px;
+    display: flex;
+    flex-direction: row;
+    justify-content: end;
+    align-content: end;
+    align-items: end;
+}
+.button2{ 
+    margin-right: 250px;
+}
+.btn-1{
+    background-color: #545BE8;
+    color: white;
+}
+.btn-2{
+    background-color: transparent;
+}
+.btn-2 button{
+   
+    align-content: center;
+    align-items: center;
+    text-align: center;
+}
+embed{
+    margin-right: 4px;
+    position: relative;
+    top: 8px;
+   width: 25px;
+   height: 25px;
+}
+.p1{
+color: #545BE8;
+}
