@@ -158,7 +158,7 @@ color: #545BE8;
 }
 .boxes{
     position: static;
-    right: 150px;
+    margin-right: 300px;
     display: flex;
     flex-direction: row;
     justify-content: center;
@@ -170,10 +170,11 @@ color: #545BE8;
 }
 .top p{
     position: relative;
-    left: 450px;
-    width: 350px;
+    text-align: center;
+    left: 350px;
+    width: 190%;
     bottom: 140px;
-    margin-bottom: 60px;
+    margin-bottom: 40px;
     font-size: 27px;
 }
 .box-1{
@@ -182,8 +183,7 @@ color: #545BE8;
     height: 240px;
     margin-top: 20px;
     color: white;
-    padding: 15px;
-    padding-top: 30px;
+    padding: 20px;
     border-radius: 6px;
 }
 .teacher-2 p{
@@ -207,8 +207,8 @@ color: #545BE8;
     height: 240px;
     margin-top: 20px;
     color: white;
-    padding: 15px;
-    padding-top: 30px;
+    padding: 20px;
+    padding-top: 20px;
     border-radius: 6px;
 }
 .box-3{
@@ -217,8 +217,8 @@ color: #545BE8;
     height: 240px;
     margin-top: 20px;
     color: white;
-    padding: 15px;
-    padding-top: 30px;
+    padding: 20px;
+    padding-top: 20px;
     border-radius: 6px;
 }
 .course-2 p{
@@ -325,12 +325,12 @@ color: #545BE8;
     margin-left: 100px;
 }
 .box1 img{
-    width:250px ;
-    height: 250px;
+    width:300px ;
+    height: 300px;
 }
 .box2 img{
-    width: 250px;
-    height: 250px;
+    width:300px ;
+    height: 300px;
 }
 .boxes-2{
     position: static;
@@ -339,12 +339,12 @@ color: #545BE8;
     margin-left: 100px;
 }
 .box3 img{
-    width:250px ;
-    height: 250px;
+    width:300px ;
+    height: 300px;
 }
 .box4 img{
-    width:250px ;
-    height: 250px;
+    width:300px ;
+    height: 300px;
 }
 .button3 button{
     width: 150px;
@@ -372,4 +372,106 @@ color: #545BE8;
     width: 450px;
     font-size: 16px;
     color: #969696;
+}
+.testimonial h1{
+    text-align: center;
+}
+.cards{
+    display: flex;
+    flex-direction: row;
+    align-content: center;
+    justify-content: center;
+    align-items: center;
+}
+.card-1 img{
+    width: 550px;
+    height: 400px;
+}
+.card-2 img{
+    width: 550px;
+    height: 400px;
+}
+.logo-2{
+    display: flex;
+    flex-direction: row;
+    align-items: center; 
+}
+.logo-2 p{
+    margin-left: 5px;
+    font-size: 13px;
+    color: #FFFFFF;
+    font-family: inter;
+    font-weight: 600;
+}
+.logo-2 img{
+    width: 35px;
+    height: 35px;
+}
+footer{
+    display: flex;
+    background-color: #393E46;
+    padding: 130px;
+    color: #FFFFFF;
+    height: 65vh;
+}
+.par-1{
+    margin-top:20px;
+    width: 500px;
+    font-size: 19px;
+    flex-direction: row;
+}
+.logos{
+    margin-top: 55px;
+    display: flex;
+    flex-direction: row;
+    gap: 16px;
+}
+.fb img{
+    width: 40px;
+    height: 40px;
+}
+.twitter img{
+    width: 40px;
+    height: 40px;
+}
+.linkedin img{
+    width: 40px;
+    height: 40px;
+}
+.ig img{
+    width: 40px;
+    height: 40px;
+}
+.second-p{
+    display: flex;
+    flex-direction: row;
+    justify-content: end;
+    align-items: center;
+    align-content: center;
+    margin-left: 150px;
+    gap: 70px;
+}
+.home1 p{
+    margin-bottom: 30px;
+}
+.home-text p{
+   margin-bottom: 25px;
+}
+.course1 p{
+    margin-bottom: 31px;
+}
+.course-text p{
+    margin-bottom: 30px;
+}
+.article1 p{
+    margin-bottom: 31px;
+}
+.Article-text p{
+    margin-bottom: 30px;
+}
+.contact1 p{
+    margin-bottom: 39px;
+}
+.contact-text p{
+    margin-bottom: 185px;
 }
