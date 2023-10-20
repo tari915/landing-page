@@ -26,8 +26,8 @@ body{
 .logo p{
     margin-left: 5px;
     font-size: 12px;
-    color: blueviolet;
-    font-family: roboto;
+    color: #545BE8;
+    font-family: inter;
     font-weight: 700;
 }
 .logo img{
@@ -85,12 +85,12 @@ button{
     font-weight: 700;
 }
 .button-2{
-    background-color: blueviolet;
+    background-color: #545BE8;
     color: white;
 }
 .button-1{
-    border: 1px solid blueviolet;
-    color: blueviolet;
+    border: 1px solid #545BE8;
+    color: #545BE8;
     background-color: white;
 }
 .hero{
@@ -107,6 +107,7 @@ button{
 .head-text h1{
     font-size: 70px;
     width: 600px;
+    margin-bottom: 15px;
 }
 .first-image img{
     width: 500px;
@@ -144,4 +145,231 @@ embed{
 }
 .p1{
 color: #545BE8;
+}
+.p2 p{
+    font-size: 17px;
+    color: #969696;
+}
+.second-section{
+    margin: 20px;
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+}
+.boxes{
+    position: static;
+    right: 150px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-content: center;
+    align-items: center;
+    margin-top: 60px;
+    flex-direction: row;
+    gap: 25px;
+}
+.top p{
+    position: relative;
+    left: 450px;
+    width: 350px;
+    bottom: 140px;
+    margin-bottom: 60px;
+    font-size: 27px;
+}
+.box-1{
+    background: #545BE8;
+    width: 250px;
+    height: 240px;
+    margin-top: 20px;
+    color: white;
+    padding: 15px;
+    padding-top: 30px;
+    border-radius: 6px;
+}
+.teacher-2 p{
+    font-size: 14px;
+    margin-top: 20px;
+}
+.circle-1{
+    background: white;
+    width: 40px;
+    height: 40px;
+    margin-bottom: 10px;
+    border-radius: 26px;
+}
+.circle-1 img{
+    width: 40px;
+    height: 40px;
+}
+.box-2{
+    background: #545BE8;
+    width: 250px;
+    height: 240px;
+    margin-top: 20px;
+    color: white;
+    padding: 15px;
+    padding-top: 30px;
+    border-radius: 6px;
+}
+.box-3{
+    background: #545BE8;
+    width: 250px;
+    height: 240px;
+    margin-top: 20px;
+    color: white;
+    padding: 15px;
+    padding-top: 30px;
+    border-radius: 6px;
+}
+.course-2 p{
+    font-size: 14px;
+    margin-top: 20px;
+}
+.circle-2{
+    background: white;
+    width: 40px;
+    height: 40px;
+    margin-bottom: 10px;
+    border-radius: 26px;
+}
+.circle-2 img{
+    width: 40px;
+    height: 40px;
+}
+.learning-2 p{
+    font-size: 14px;
+    margin-top: 20px;
+}
+.circle-3{
+    background: white;
+    width: 40px;
+    height: 40px;
+    margin-bottom: 10px;
+    border-radius: 26px;
+}
+.circle-3 img{
+    width: 40px;
+    height: 40px;
+}
+.third-section{
+    display: flex;
+    background-color: #545BE8;
+    height: 90vh;
+}
+.second-image img{
+    width: 500px;
+    height: 500px;
+    margin-left: 70px;
+    margin-top: 80px;
+    display: flex;
+    flex-direction: row;
+    justify-content: end;
+    align-content: end;
+    align-items: end;
+}
+.content{
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    justify-content: center;
+    margin-left: 60px;
+    margin-right: 30px;
+    color: white;
+}
+.stats{
+    display: flex;
+    flex-direction: row;
+    align-content: center;
+    gap: 130px;
+    margin-top: 50px;
+    font-family: inter;
+}
+.stat-1{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    gap: 6px;
+}
+.stat-2{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    gap: 6px;
+}
+.stat-3{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    gap: 6px;
+}
+.p-1{
+    color: #F0C932;
+}
+.content h1{
+    font-size: 75px;
+}
+.para-1 p{
+    font-size: 17px;
+    color: #DDDDDD;
+}
+.boxes-1{
+    display: flex;
+    flex-direction: row;
+    margin-top: 60px;
+    margin-left: 100px;
+}
+.box1 img{
+    width:250px ;
+    height: 250px;
+}
+.box2 img{
+    width: 250px;
+    height: 250px;
+}
+.boxes-2{
+    position: static;
+    display: flex;
+    flex-direction: row;
+    margin-left: 100px;
+}
+.box3 img{
+    width:250px ;
+    height: 250px;
+}
+.box4 img{
+    width:250px ;
+    height: 250px;
+}
+.button3 button{
+    width: 150px;
+    background-color: #545BE8;
+    color: white;
+}
+.content-2{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-left: 50px;
+}
+.fourth-section{
+    display: flex;
+    flex-direction: column;
+}
+.available{
+    color: #545BE8;
+}
+.available-courses h1{
+    width: 50px;
+    font-size: 49px;
+}
+.para1 p{
+    width: 450px;
+    font-size: 16px;
+    color: #969696;
 }
