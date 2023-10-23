@@ -417,7 +417,7 @@ color: #545BE8;
 footer{
     display: flex;
     background-color: #393E46;
-    padding: 130px;
+    padding: 120px;
     color: #FFFFFF;
     height: 70vh;
 }
@@ -460,34 +460,26 @@ footer{
     font-weight: 100;
 }
 .home1 p{
-    padding-top:5px ;
-     margin-bottom: 35px;
+   
 }
 .home-text ul li{
-   padding-bottom: 24px;
    gap: 40px;
    list-style: none;
 }
 .course1 p{
-    margin-bottom: 30px;
 }
 .course-text li{
-    margin-bottom: 25px;
     gap: 40px;
     list-style: none;
 }
 .article1 {
-    margin-bottom: 30px;
 }
 .Article-text li{
-    margin-bottom: 25px;
     gap: 40px;
     list-style: none;
 }
 .contact1 p{
-    margin-bottom: 40px;
 }
 .contact-text li{
-    margin-bottom: 160px;
     list-style: none;
 }
