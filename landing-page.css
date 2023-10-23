@@ -176,6 +176,7 @@ color: #545BE8;
     bottom: 140px;
     margin-bottom: 40px;
     font-size: 27px;
+    z-index: -1;
 }
 .box-1{
     background: #545BE8;
@@ -449,13 +450,13 @@ footer{
     align-items: center;
     align-content: center;
     margin-left: 130px;
-    gap: 65px;
+    gap: 50px;
 }
 .home1 p{
     margin-bottom: 30px;
 }
 .home-text p{
-   margin-bottom: 25px;
+   margin-bottom: 29px;
 }
 .course1 p{
     margin-bottom: 31px;
