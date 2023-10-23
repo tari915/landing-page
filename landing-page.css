@@ -110,8 +110,9 @@ button{
     margin-bottom: 15px;
 }
 .first-image img{
-    width: 500px;
-    height: 500px;
+    width: 525px;
+    height: 525px;
+    margin-bottom: 20px;
     margin-right: 60px;
     margin-top: 50px;
     display: flex;
@@ -459,23 +460,23 @@ footer{
     margin-bottom: 30px;
 }
 .home-text p{
-   margin-bottom: 30px;
+   margin-bottom: 25px;
 }
 .course1 p{
-    margin-bottom: 31px;
+    margin-bottom: 30px;
 }
 .course-text p{
-    margin-bottom: 30px;
+    margin-bottom: 25px;
 }
 .article1 p{
-    margin-bottom: 31px;
-}
-.Article-text p{
     margin-bottom: 30px;
 }
+.Article-text p{
+    margin-bottom: 25px;
+}
 .contact1 p{
-    margin-bottom: 39px;
+    margin-bottom: 34px;
 }
 .contact-text p{
-    margin-bottom: 185px;
+    margin-bottom: 164px;
 }
