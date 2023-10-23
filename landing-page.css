@@ -450,13 +450,14 @@ footer{
     align-items: center;
     align-content: center;
     margin-left: 130px;
-    gap: 50px;
+    gap: 45px;
+    font-weight: 100;
 }
 .home1 p{
     margin-bottom: 30px;
 }
 .home-text p{
-   margin-bottom: 29px;
+   margin-bottom: 30px;
 }
 .course1 p{
     margin-bottom: 31px;
