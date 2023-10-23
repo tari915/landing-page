@@ -458,26 +458,33 @@ footer{
     font-weight: 100;
 }
 .home1 p{
-    margin-bottom: 30px;
+     margin-bottom: 30px;
 }
-.home-text p{
+.home-text li{
    margin-bottom: 25px;
+   gap: 40px;
+   list-style: none;
 }
 .course1 p{
     margin-bottom: 30px;
 }
-.course-text p{
+.course-text li{
     margin-bottom: 25px;
+    gap: 40px;
+    list-style: none;
 }
-.article1 p{
+.article1 {
     margin-bottom: 30px;
 }
-.Article-text p{
+.Article-text li{
     margin-bottom: 25px;
+    gap: 40px;
+    list-style: none;
 }
 .contact1 p{
-    margin-bottom: 34px;
+    margin-bottom: 40px;
 }
-.contact-text p{
-    margin-bottom: 164px;
+.contact-text li{
+    margin-bottom: 160px;
+    list-style: none;
 }
