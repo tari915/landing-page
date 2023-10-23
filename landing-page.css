@@ -21,7 +21,7 @@ body{
     flex-direction: row;
     justify-content: center;
     align-items: center; 
-    margin-right: 150px;
+    margin-right: 200px;
 }
 .logo p{
     margin-left: 5px;
@@ -40,7 +40,7 @@ body{
     list-style: none;
     text-decoration: none;
     gap: 30px;
-   
+   margin-right: 58px;
 }
 .nav-links{
     justify-content: center;
@@ -97,6 +97,7 @@ button{
     display: flex;
     background-color: #F5F5F5;
     padding-top: 90px;
+    padding-left: 50px;
     height: 100vh;
 }
 .head-text{
@@ -458,10 +459,10 @@ footer{
     font-weight: 100;
 }
 .home1 p{
-    margin-top:8px ;
+    margin-top:5px ;
      margin-bottom: 35px;
 }
-.home-text li{
+.home-text ul li{
    margin-bottom: 24px;
    gap: 40px;
    list-style: none;
