@@ -458,10 +458,11 @@ footer{
     font-weight: 100;
 }
 .home1 p{
-     margin-bottom: 30px;
+    margin-top:8px ;
+     margin-bottom: 35px;
 }
 .home-text li{
-   margin-bottom: 23px;
+   margin-bottom: 24px;
    gap: 40px;
    list-style: none;
 }
