@@ -462,8 +462,6 @@ footer{
 }
 .home-text p{
    margin-bottom: 25px;
-   display: flex;
-   flex-direction: column;
 }
 .course1 p{
     margin-bottom: 30px;
